@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrorawm)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-contribution-stats.vercel.app/api/?username=terrorawm />
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=terrorawm)](https://github.com/LordDashMe/github-contribution-stats/)
 <!--
 **TerrorAWM/TerrorAWM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
