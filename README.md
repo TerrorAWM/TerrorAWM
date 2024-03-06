@@ -8,7 +8,7 @@
 
     
   <a href="mailto:info@prservers.net">
-      <img src="https://img.shields.io/badge/-mail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-mail-red?flat&logo=gmail&logoColor=white"/>
   </a>
   <span>&ensp;</span>
   <a href="https://3r.com.pa/u/RZQQ" target="_blank">
@@ -16,7 +16,7 @@
   </a>
   <span>&ensp;</span>
    <a href="https://prservers.net/" target="_blank">
-      <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Website-blue?style=flat"/>
   </a>
 
 </div>
@@ -28,7 +28,8 @@
   <h3 >🔧 Languages:</h3>
   <p > 
   <a href="https://php.com" target="_blank"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a> 
     <a href="https://getbootstrap.com" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> 
