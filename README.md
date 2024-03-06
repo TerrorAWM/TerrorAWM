@@ -10,11 +10,11 @@
   <a href="mailto:info@prservers.net">
       <img src="https://img.shields.io/badge/-mail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
+  <span>&ensp;</span>
   <a href="https://3r.com.pa/u/RZQQ" target="_blank">
       <img src="https://img.shields.io/badge/QQ-EB1923?style=flat&logo=tencent-qq"/>
   </a>
-  
+  <span>&ensp;</span>
    <a href="https://prservers.net/" target="_blank">
       <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge"/>
   </a>
@@ -41,13 +41,6 @@
     <p > 
     <a href="https://code.visualstudio.com/" target="_blank"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> </a>
-       <a href="https://git-scm.com/" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">   
-      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-       <a href="https://www.photoshop.com/en" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-      <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
   </p>
 
   
@@ -59,7 +52,7 @@
  <br> -->
   
 <div>
-  <img src="https://github-contribution-stats.vercel.app/api/?username=lorddashme" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=terrorawm" />
 </div>
  
 <div > 
