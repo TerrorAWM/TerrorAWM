@@ -10,11 +10,11 @@
   <a href="mailto:info@prservers.net">
       <img src="https://img.shields.io/badge/-mail-red?flat&logo=gmail&logoColor=white"/>
   </a>
-  <span>&ensp;</span>
+  <!-- <span>&ensp;</span> -->
   <a href="https://3r.com.pa/u/RZQQ" target="_blank">
       <img src="https://img.shields.io/badge/QQ-EB1923?style=flat&logo=tencent-qq"/>
   </a>
-  <span>&ensp;</span>
+  <!-- <span>&ensp;</span> -->
    <a href="https://prservers.net/" target="_blank">
       <img src="https://img.shields.io/badge/Website-blue?style=flat"/>
   </a>
