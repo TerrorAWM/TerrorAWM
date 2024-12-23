@@ -1,4 +1,4 @@
-# Hiii, I'm Ricardo 👋
+# Hi there, I'm Ricardo 👋
 
 
 
